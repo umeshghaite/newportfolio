@@ -309,3 +309,12 @@ header{
     font-size: var(--p-font);
     font-weight: bold;
 }
+.footer{
+  
+}
+.stamp{
+    padding-top: 100px;
+    text-align: center;
+    position: sticky;
+    bottom: 0;
+}
